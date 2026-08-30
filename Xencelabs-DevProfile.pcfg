@@ -1,0 +1,150 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Root>
+  <PenTableLists version="1.0.0">
+    <M06b2d7a299e8>
+      <Remote id="0" rotation="2" name="My Quick Keys">
+        <Default defaultgroup="1">
+          <K>
+            <K1 Motid="1" id="2" Show="1" Actid="2">2|Find|Ctrl+Shift+A|17:0+16:0+65:0</K1>
+            <K2 Motid="2" id="2" Show="1" Actid="2">2|Recent|Ctrl+E|17:0+69:0</K2>
+            <K3 Motid="3" id="2" Show="1" Actid="2">2|Rename|Shift+F6|16:0+117:0</K3>
+            <K4 Motid="4" id="2" Show="1" Actid="2">2|Format|Ctrl+Alt+L|17:0+18:0+76:0</K4>
+            <K5 Motid="5" id="2" Show="1" Actid="2">2|Cmmnt|Ctrl+/|17:0+191:0</K5>
+            <K6 Motid="6" id="2" Show="1" Actid="2">2|StepOv|F8|119:0</K6>
+            <K7 Motid="7" id="2" Show="1" Actid="2">2|Resume|F9|120:0</K7>
+            <K8 Motid="8" id="2" Show="1" Actid="2">2|Build|Ctrl+F9|17:0+120:0</K8>
+            <K9 Motid="9" id="0" Show="1" Actid="0"/>
+            <K10 Motid="10" id="0" Show="1" Actid="0"/>
+          </K>
+          <R wid="1">
+            <W1 color="6" id="1" enable="1" speed="3" colorbright="2" name="" orderid="1"/>
+            <W2 color="7" id="2" enable="1" speed="3" colorbright="2" name="" orderid="2"/>
+            <W3 color="5" id="3" enable="1" speed="3" colorbright="2" name="" orderid="3"/>
+            <W4 color="4" id="4" enable="1" speed="3" colorbright="2" name="" orderid="4">4|*#Brush Size|[|]|219:26|221:27</W4>
+          </R>
+        </Default>
+        <CommonAPP>
+          <K>
+            <Set id="0" enable="1" name="IDE">
+              <K1 id="2" Actid="2">2|Find|Ctrl+Shift+A|17:0+16:0+65:0</K1>
+              <K2 id="2" Actid="2">2|Recent|Ctrl+E|17:0+69:0</K2>
+              <K3 id="2" Actid="2">2|Rename|Shift+F6|16:0+117:0</K3>
+              <K4 id="2" Actid="2">2|Format|Ctrl+Alt+L|17:0+18:0+76:0</K4>
+              <K5 id="2" Actid="2">2|Cmmnt|Ctrl+/|17:0+191:0</K5>
+              <K6 id="2" Actid="2">2|StepOv|F8|119:0</K6>
+              <K7 id="2" Actid="2">2|Resume|F9|120:0</K7>
+              <K8 id="2" Actid="2">2|Build|Ctrl+F9|17:0+120:0</K8>
+            </Set>
+            <Set id="1" enable="1" name="DB">
+              <K1 id="2" Actid="2">2|Run|Ctrl+Enter|17:0+13:0</K1>
+              <K2 id="2" Actid="2">2|Format|Ctrl+Alt+L|17:0+18:0+76:0</K2>
+              <K3 id="2" Actid="2">2|NewCon|Ctrl+Shift+Q|17:0+16:0+81:0</K3>
+              <K4 id="2" Actid="2">2|Find|Ctrl+F|17:0+70:0</K4>
+              <K5 id="2" Actid="2">2|Table|Ctrl+N|17:0+78:0</K5>
+              <K6 id="2" Actid="2">2|Refrsh|Ctrl+F5|17:0+116:0</K6>
+              <K7 id="2" Actid="2">2|Close|Ctrl+F4|17:0+115:0</K7>
+              <K8 id="2" Actid="2">2|Commit|Ctrl+Alt+K|17:0+18:0+75:0</K8>
+            </Set>
+            <Set id="2" enable="1" name="Term">
+              <K1 id="2" Actid="2">2|Clear|Ctrl+L|17:0+76:0</K1>
+              <K2 id="2" Actid="2">2|Cancel|Ctrl+C|17:0+67:0</K2>
+              <K3 id="2" Actid="2">2|Histry|Ctrl+R|17:0+82:0</K3>
+              <K4 id="2" Actid="2">2|NewTab|Ctrl+Shift+T|17:0+16:0+84:0</K4>
+              <K5 id="2" Actid="2">2|Commit|Ctrl+K|17:0+75:0</K5>
+              <K6 id="2" Actid="2">2|Push|Ctrl+Shift+K|17:0+16:0+75:0</K6>
+              <K7 id="2" Actid="2">2|Pull|Ctrl+T|17:0+84:0</K7>
+              <K8 id="2" Actid="2">2|Close|Ctrl+Shift+W|17:0+16:0+87:0</K8>
+            </Set>
+            <Set id="3" enable="1" name="PPT">
+              <K1 id="2" Actid="2">2|Start|F5|116:0</K1>
+              <K2 id="2" Actid="2">2|CurSld|Shift+F5|16:0+116:0</K2>
+              <K3 id="2" Actid="2">2|Next|Right|39:0</K3>
+              <K4 id="2" Actid="2">2|Prev|Left|37:0</K4>
+              <K5 id="2" Actid="2">2|Laser|Ctrl+L|17:0+76:0</K5>
+              <K6 id="2" Actid="2">2|Pen|Ctrl+P|17:0+80:0</K6>
+              <K7 id="2" Actid="2">2|Black|B|66:0</K7>
+              <K8 id="2" Actid="2">2|End|Esc|27:0</K8>
+            </Set>
+            <Set id="4" enable="1" name="Work">
+              <K1 id="2" Actid="2">2|Mute|Ctrl+Shift+M|17:0+16:0+77:0</K1>
+              <K2 id="2" Actid="2">2|Deafen|Ctrl+Shift+D|17:0+16:0+68:0</K2>
+              <K3 id="2" Actid="2">2|Answer|Ctrl+Enter|17:0+13:0</K3>
+              <K4 id="2" Actid="2">2|Search|Ctrl+F|17:0+70:0</K4>
+              <K5 id="2" Actid="2">2|Read|Esc|27:0</K5>
+              <K6 id="2" Actid="2">2|Tasks|Win+Tab|91:0+9:0</K6>
+              <K7 id="2" Actid="2">2|Dsktop|Win+D|91:0+68:0</K7>
+              <K8 id="2" Actid="2">2|Esc|Esc|27:0</K8>
+            </Set>
+          </K>
+          <R wid="4">
+            <W1 color="6" id="1" enable="1" speed="3" colorbright="2" name="" orderid="1"/>
+            <W2 color="7" id="2" enable="1" speed="3" colorbright="2" name="" orderid="2"/>
+            <W3 color="5" id="3" enable="1" speed="3" colorbright="2" name="" orderid="3"/>
+            <W4 color="4" id="4" enable="1" speed="3" colorbright="2" name="" orderid="4">4|*#Brush Size|[|]|219:26|221:27</W4>
+          </R>
+        </CommonAPP>
+        <Apps/>
+      </Remote>
+    </M06b2d7a299e8>
+  </PenTableLists>
+  <Tools>
+    <Radial name="">
+      <Default>
+        <K>
+          <K1 Motid="1" id="2" lock="0" Actid="2">2|*#Undo|Ctrl+Z|17:29+90:44</K1>
+          <K2 Motid="2" id="2" lock="0" Actid="2">2|*#Redo|Ctrl+Y|17:29+89:21</K2>
+          <K3 Motid="3" id="2" lock="0" Actid="2">2|*#Copy|Ctrl+C|17:29+67:46</K3>
+          <K4 Motid="4" id="2" lock="0" Actid="2">2|*#Paste|Ctrl+V|17:29+86:47</K4>
+          <K5 Motid="5" id="2" lock="0" Actid="2">2|*#Save|Ctrl+S|162:29+83:31</K5>
+          <K6 Motid="6" id="2" lock="0" Actid="2">2|*#Deselect|Ctrl+D|162:29+68:32</K6>
+          <K7 Motid="7" id="2" lock="0" Actid="2">2|*#Enter|Enter|13:284</K7>
+          <K8 Motid="8" id="2" lock="0" Actid="2">2|Esc|Esc|27:1</K8>
+        </K>
+      </Default>
+      <CommonAPP>
+        <K cID="0">
+          <Set id="0" lock="0" enable="1" name="">
+            <K1 id="2" lock="0" Actid="2">2|*#Undo|Ctrl+Z|17:29+90:44</K1>
+            <K2 id="2" lock="0" Actid="2">2|*#Redo|Ctrl+Y|17:29+89:21</K2>
+            <K3 id="2" lock="0" Actid="2">2|*#Copy|Ctrl+C|17:29+67:46</K3>
+            <K4 id="2" lock="0" Actid="2">2|*#Paste|Ctrl+V|17:29+86:47</K4>
+            <K5 id="2" lock="0" Actid="2">2|*#Save|Ctrl+S|162:29+83:31</K5>
+            <K6 id="2" lock="0" Actid="2">2|*#Deselect|Ctrl+D|162:29+68:32</K6>
+            <K7 id="2" lock="0" Actid="2">2|*#Enter|Enter|13:284</K7>
+            <K8 id="2" lock="0" Actid="2">2|Esc|Esc|27:1</K8>
+          </Set>
+          <Set id="1" lock="0" enable="0" name="">
+            <K1 id="2" lock="0" Actid="2">2|*#Undo|Ctrl+Z|17:29+90:44</K1>
+            <K2 id="2" lock="0" Actid="2">2|*#Redo|Ctrl+Y|17:29+89:21</K2>
+            <K3 id="2" lock="0" Actid="2">2|*#Copy|Ctrl+C|17:29+67:46</K3>
+            <K4 id="2" lock="0" Actid="2">2|*#Paste|Ctrl+V|17:29+86:47</K4>
+            <K5 id="2" lock="0" Actid="2">2|*#Save|Ctrl+S|162:29+83:31</K5>
+            <K6 id="2" lock="0" Actid="2">2|*#Deselect|Ctrl+D|162:29+68:32</K6>
+            <K7 id="2" lock="0" Actid="2">2|*#Enter|Enter|13:284</K7>
+            <K8 id="2" lock="0" Actid="2">2|Esc|Esc|27:1</K8>
+          </Set>
+          <Set id="2" lock="0" enable="0" name="">
+            <K1 id="2" lock="0" Actid="2">2|*#Undo|Ctrl+Z|17:29+90:44</K1>
+            <K2 id="2" lock="0" Actid="2">2|*#Redo|Ctrl+Y|17:29+89:21</K2>
+            <K3 id="2" lock="0" Actid="2">2|*#Copy|Ctrl+C|17:29+67:46</K3>
+            <K4 id="2" lock="0" Actid="2">2|*#Paste|Ctrl+V|17:29+86:47</K4>
+            <K5 id="2" lock="0" Actid="2">2|*#Save|Ctrl+S|162:29+83:31</K5>
+            <K6 id="2" lock="0" Actid="2">2|*#Deselect|Ctrl+D|162:29+68:32</K6>
+            <K7 id="2" lock="0" Actid="2">2|*#Enter|Enter|13:284</K7>
+            <K8 id="2" lock="0" Actid="2">2|Esc|Esc|27:1</K8>
+          </Set>
+        </K>
+      </CommonAPP>
+      <Apps/>
+    </Radial>
+  </Tools>
+  <AppList/>
+  <FileNotes>
+    <DataCreated>2026-08-30</DataCreated>
+    <OS>Win</OS>
+    <LanguageSource>Portuguese</LanguageSource>
+    <KeyboardSource>0</KeyboardSource>
+    <DriverVersion>1.3.5-90</DriverVersion>
+    <Notes>Dev Fix</Notes>
+  </FileNotes>
+</Root>

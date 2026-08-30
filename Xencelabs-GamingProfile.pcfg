@@ -1,0 +1,150 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Root>
+  <PenTableLists version="1.0.0">
+    <M06b2d7a299e8>
+      <Remote id="0" rotation="2" name="My Quick Keys">
+        <Default defaultgroup="1">
+          <K>
+            <K1 Motid="1" id="2" Show="1" Actid="2">2|Steam|Shift+Tab|16:0+9:0</K1>
+            <K2 Motid="2" id="2" Show="1" Actid="2">2|Uplay|Shift+F2|16:0+113:0</K2>
+            <K3 Motid="3" id="2" Show="1" Actid="2">2|GameBr|Win+G|91:0+71:0</K3>
+            <K4 Motid="4" id="2" Show="1" Actid="2">2|TaskMg|Ctrl+Shift+Esc|17:0+16:0+27:0</K4>
+            <K5 Motid="5" id="2" Show="1" Actid="2">2|WinTab|Win+Tab|91:0+9:0</K5>
+            <K6 Motid="6" id="2" Show="1" Actid="2">2|Dsktop|Win+D|91:0+68:0</K6>
+            <K7 Motid="7" id="2" Show="1" Actid="2">2|FScrn|Alt+Enter|18:0+13:0</K7>
+            <K8 Motid="8" id="2" Show="1" Actid="2">2|AltF4|Alt+F4|18:0+115:0</K8>
+            <K9 Motid="9" id="0" Show="1" Actid="0"/>
+            <K10 Motid="10" id="0" Show="1" Actid="0"/>
+          </K>
+          <R wid="1">
+            <W1 color="6" id="1" enable="1" speed="3" colorbright="2" name="" orderid="1"/>
+            <W2 color="7" id="2" enable="1" speed="3" colorbright="2" name="" orderid="2"/>
+            <W3 color="5" id="3" enable="1" speed="3" colorbright="2" name="" orderid="3"/>
+            <W4 color="4" id="4" enable="1" speed="3" colorbright="2" name="" orderid="4">4|*#Brush Size|[|]|219:26|221:27</W4>
+          </R>
+        </Default>
+        <CommonAPP>
+          <K>
+            <Set id="0" enable="1" name="System">
+              <K1 id="2" Actid="2">2|Steam|Shift+Tab|16:0+9:0</K1>
+              <K2 id="2" Actid="2">2|Uplay|Shift+F2|16:0+113:0</K2>
+              <K3 id="2" Actid="2">2|GameBr|Win+G|91:0+71:0</K3>
+              <K4 id="2" Actid="2">2|TaskMg|Ctrl+Shift+Esc|17:0+16:0+27:0</K4>
+              <K5 id="2" Actid="2">2|WinTab|Win+Tab|91:0+9:0</K5>
+              <K6 id="2" Actid="2">2|Dsktop|Win+D|91:0+68:0</K6>
+              <K7 id="2" Actid="2">2|FScrn|Alt+Enter|18:0+13:0</K7>
+              <K8 id="2" Actid="2">2|AltF4|Alt+F4|18:0+115:0</K8>
+            </Set>
+            <Set id="1" enable="1" name="NVIDIA">
+              <K1 id="2" Actid="2">2|NviOvr|Alt+Z|18:0+90:0</K1>
+              <K2 id="2" Actid="2">2|Replay|Alt+F10|18:0+121:0</K2>
+              <K3 id="2" Actid="2">2|Record|Alt+F9|18:0+120:0</K3>
+              <K4 id="2" Actid="2">2|Screen|Alt+F1|18:0+112:0</K4>
+              <K5 id="2" Actid="2">2|MicTgl|Alt+M|18:0+77:0</K5>
+              <K6 id="2" Actid="2">2|FPS|Alt+R|18:0+82:0</K6>
+              <K7 id="2" Actid="2">2|Filter|Alt+F3|18:0+114:0</K7>
+              <K8 id="2" Actid="2">2|CamTgl|Alt+F6|18:0+117:0</K8>
+            </Set>
+            <Set id="2" enable="1" name="Comms">
+              <K1 id="2" Actid="2">2|Mute|Ctrl+Shift+M|17:0+16:0+77:0</K1>
+              <K2 id="2" Actid="2">2|Deafen|Ctrl+Shift+D|17:0+16:0+68:0</K2>
+              <K3 id="2" Actid="2">2|Answer|Ctrl+Enter|17:0+13:0</K3>
+              <K4 id="2" Actid="2">2|Reject|Esc|27:0</K4>
+              <K5 id="2" Actid="2">2|PTT|V|86:0</K5>
+              <K6 id="2" Actid="2">2|Chat|Enter|13:0</K6>
+              <K7 id="2" Actid="2">2|DscOvr|Shift+`|16:0+192:0</K7>
+              <K8 id="2" Actid="2">2|AltTab|Alt+Tab|18:0+9:0</K8>
+            </Set>
+            <Set id="3" enable="1" name="InGame">
+              <K1 id="2" Actid="2">2|Map|M|77:0</K1>
+              <K2 id="2" Actid="2">2|Invtry|I|73:0</K2>
+              <K3 id="2" Actid="2">2|Journl|J|74:0</K3>
+              <K4 id="2" Actid="2">2|QSave|F5|116:0</K4>
+              <K5 id="2" Actid="2">2|QLoad|F9|120:0</K5>
+              <K6 id="2" Actid="2">2|Heal|H|72:0</K6>
+              <K7 id="2" Actid="2">2|Prone|Z|90:0</K7>
+              <K8 id="2" Actid="2">2|Crouch|C|67:0</K8>
+            </Set>
+            <Set id="4" enable="1" name="Empty">
+              <K1 id="2" Actid="2">2|*#Undo|Ctrl+Z|17:0+90:0</K1>
+              <K2 id="2" Actid="2">2|*#Redo|Ctrl+Y|17:0+89:0</K2>
+              <K3 id="2" Actid="2">2|*#Copy|Ctrl+C|17:0+67:0</K3>
+              <K4 id="2" Actid="2">2|*#Paste|Ctrl+V|17:0+86:0</K4>
+              <K5 id="2" Actid="2">2|Shift|Shift|16:0</K5>
+              <K6 id="2" Actid="2">2|Control|Ctrl|17:0</K6>
+              <K7 id="2" Actid="2">2|Alt|Alt|18:0</K7>
+              <K8 id="2" Actid="2">2|*#Space|Space|32:0</K8>
+            </Set>
+          </K>
+          <R wid="4">
+            <W1 color="6" id="1" enable="1" speed="3" colorbright="2" name="" orderid="1"/>
+            <W2 color="7" id="2" enable="1" speed="3" colorbright="2" name="" orderid="2"/>
+            <W3 color="5" id="3" enable="1" speed="3" colorbright="2" name="" orderid="3"/>
+            <W4 color="4" id="4" enable="1" speed="3" colorbright="2" name="" orderid="4">4|*#Brush Size|[|]|219:26|221:27</W4>
+          </R>
+        </CommonAPP>
+        <Apps/>
+      </Remote>
+    </M06b2d7a299e8>
+  </PenTableLists>
+  <Tools>
+    <Radial name="">
+      <Default>
+        <K>
+          <K1 Motid="1" id="2" lock="0" Actid="2">2|*#Undo|Ctrl+Z|17:29+90:44</K1>
+          <K2 Motid="2" id="2" lock="0" Actid="2">2|*#Redo|Ctrl+Y|17:29+89:21</K2>
+          <K3 Motid="3" id="2" lock="0" Actid="2">2|*#Copy|Ctrl+C|17:29+67:46</K3>
+          <K4 Motid="4" id="2" lock="0" Actid="2">2|*#Paste|Ctrl+V|17:29+86:47</K4>
+          <K5 Motid="5" id="2" lock="0" Actid="2">2|*#Save|Ctrl+S|162:29+83:31</K5>
+          <K6 Motid="6" id="2" lock="0" Actid="2">2|*#Deselect|Ctrl+D|162:29+68:32</K6>
+          <K7 Motid="7" id="2" lock="0" Actid="2">2|*#Enter|Enter|13:284</K7>
+          <K8 Motid="8" id="2" lock="0" Actid="2">2|Esc|Esc|27:1</K8>
+        </K>
+      </Default>
+      <CommonAPP>
+        <K cID="0">
+          <Set id="0" lock="0" enable="1" name="">
+            <K1 id="2" lock="0" Actid="2">2|*#Undo|Ctrl+Z|17:29+90:44</K1>
+            <K2 id="2" lock="0" Actid="2">2|*#Redo|Ctrl+Y|17:29+89:21</K2>
+            <K3 id="2" lock="0" Actid="2">2|*#Copy|Ctrl+C|17:29+67:46</K3>
+            <K4 id="2" lock="0" Actid="2">2|*#Paste|Ctrl+V|17:29+86:47</K4>
+            <K5 id="2" lock="0" Actid="2">2|*#Save|Ctrl+S|162:29+83:31</K5>
+            <K6 id="2" lock="0" Actid="2">2|*#Deselect|Ctrl+D|162:29+68:32</K6>
+            <K7 id="2" lock="0" Actid="2">2|*#Enter|Enter|13:284</K7>
+            <K8 id="2" lock="0" Actid="2">2|Esc|Esc|27:1</K8>
+          </Set>
+          <Set id="1" lock="0" enable="0" name="">
+            <K1 id="2" lock="0" Actid="2">2|*#Undo|Ctrl+Z|17:29+90:44</K1>
+            <K2 id="2" lock="0" Actid="2">2|*#Redo|Ctrl+Y|17:29+89:21</K2>
+            <K3 id="2" lock="0" Actid="2">2|*#Copy|Ctrl+C|17:29+67:46</K3>
+            <K4 id="2" lock="0" Actid="2">2|*#Paste|Ctrl+V|17:29+86:47</K4>
+            <K5 id="2" lock="0" Actid="2">2|*#Save|Ctrl+S|162:29+83:31</K5>
+            <K6 id="2" lock="0" Actid="2">2|*#Deselect|Ctrl+D|162:29+68:32</K6>
+            <K7 id="2" lock="0" Actid="2">2|*#Enter|Enter|13:284</K7>
+            <K8 id="2" lock="0" Actid="2">2|Esc|Esc|27:1</K8>
+          </Set>
+          <Set id="2" lock="0" enable="0" name="">
+            <K1 id="2" lock="0" Actid="2">2|*#Undo|Ctrl+Z|17:29+90:44</K1>
+            <K2 id="2" lock="0" Actid="2">2|*#Redo|Ctrl+Y|17:29+89:21</K2>
+            <K3 id="2" lock="0" Actid="2">2|*#Copy|Ctrl+C|17:29+67:46</K3>
+            <K4 id="2" lock="0" Actid="2">2|*#Paste|Ctrl+V|17:29+86:47</K4>
+            <K5 id="2" lock="0" Actid="2">2|*#Save|Ctrl+S|162:29+83:31</K5>
+            <K6 id="2" lock="0" Actid="2">2|*#Deselect|Ctrl+D|162:29+68:32</K6>
+            <K7 id="2" lock="0" Actid="2">2|*#Enter|Enter|13:284</K7>
+            <K8 id="2" lock="0" Actid="2">2|Esc|Esc|27:1</K8>
+          </Set>
+        </K>
+      </CommonAPP>
+      <Apps/>
+    </Radial>
+  </Tools>
+  <AppList/>
+  <FileNotes>
+    <DataCreated>2026-08-30</DataCreated>
+    <OS>Win</OS>
+    <LanguageSource>Portuguese</LanguageSource>
+    <KeyboardSource>0</KeyboardSource>
+    <DriverVersion>1.3.5-90</DriverVersion>
+    <Notes>Gaming Set</Notes>
+  </FileNotes>
+</Root>

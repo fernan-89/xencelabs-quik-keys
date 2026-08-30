@@ -1,6 +1,6 @@
 # Xencelabs Quick Keys Profiles
 
-🇺🇸 **English:** Repository containing configuration files (`.pcfg`) for the Xencelabs Quick Keys macro pad, focusing on software development productivity and optimized gaming shortcuts on Windows.
+🇺🇸 **English:** Repository containing configuration files (`.pcfg`) for the Xencelabs Quick Keys macro pad, focusing on software development productivity and optimized gaming shortcuts on Windows.<br>
 🇧🇷 **Português:** Repositório contendo arquivos de configuração (`.pcfg`) para o macro pad Xencelabs Quick Keys, com foco em produtividade para desenvolvimento de software e atalhos otimizados para jogos no Windows.
 
 ---
@@ -23,7 +23,7 @@
 
 ## 💻 Dev & Work Profile (`Xencelabs-DevProfile.pcfg`)
 
-🇺🇸 Focused on the development ecosystem (IntelliJ, DataGrip, Terminal) and productivity (PowerPoint, Discord).
+🇺🇸 Focused on the development ecosystem (IntelliJ, DataGrip, Terminal) and productivity (PowerPoint, Discord).<br>
 🇧🇷 Focado no ecossistema de desenvolvimento (IntelliJ, DataGrip, Terminal) e produtividade (PowerPoint, Discord).
 
 **Set 1: IDE (IntelliJ Ultimate)**
@@ -95,7 +95,7 @@
 
 ## 🎮 Gaming Profile (`Xencelabs-GamingProfile.pcfg`)
 
-🇺🇸 Focused on overlay control (Steam, Uplay), screen capture (GeForce Experience), and real-time communication.
+🇺🇸 Focused on overlay control (Steam, Uplay), screen capture (GeForce Experience), and real-time communication.<br>
 🇧🇷 Focado em controle de overlays (Steam, Uplay), captura de tela (GeForce Experience) e comunicação em tempo real.
 
 **Set 1: System (Overlays & OS)**
